@@ -1,5 +1,5 @@
 <h1>#marvel-quiz</h1>
-<h3>Marvel Quiz: The Ultimate Marvel Fan Quiz - Hyper Island Project 3</h2>
+<h3>The Ultimate Marvel Fan Quiz</h2>
 
 Brief: Group project to create a quiz game that incorporates Firebase.
 
